@@ -1,0 +1,13 @@
+node_modules/
+.env
+uploads/
+haramain.db
+
+client/node_modules/
+server/node_modules/
+
+client/dist/
+server/dist/
+
+.vscode/
+.DS_Store
